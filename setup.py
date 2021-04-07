@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 
 setup(
     name="prophet-critique",
-    version="0.0.2",
+    version="0.0.3",
     description="Article list for Facebook prophet evaluation",
     long_description=README,
     long_description_content_type="text/markdown",
