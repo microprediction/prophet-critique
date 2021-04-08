@@ -12,3 +12,7 @@ for Sales Forecasting [thesis](https://uwspace.uwaterloo.ca/bitstream/handle/100
 * Prophet versus "dumb model" [kernel description](https://www.kaggle.com/myster/eda-prophet-winning-solution-3-0)
 * Cash flow prediction: MLP and LSTM compared to ARIMA and Prophet [article](https://www.researchgate.net/publication/334575706_Cash_flow_prediction_MLP_and_LSTM_compared_to_ARIMA_and_Prophet)
 * Prophet evel [repo](https://github.com/alirezayazdani21/facebook_prophet_eval/blob/main/TBATS)
+
+## Simple improvements to prophet
+
+See https://github.com/microprediction/timemachines/blob/main/timemachines/skaters/proph/prophskaterscomposed.py
